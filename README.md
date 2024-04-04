@@ -4,3 +4,9 @@
 Для запуска можно использовать `python main.py {elf_filename} {output_filename}`.
 
 Данные материалы созданы в рамках [Лабораторной работы курса архитектуры ЭВМ](https://docs.google.com/document/d/1YTgku__pPC0_HPIlXqQQ89iOHy6gG3d6rPLxkHzyxi4/edit).
+
+В планах есть:
+1. Избавиться от работы со строками
+2. Вынести общий код для парса инструкций, имеющих одинаковый базовый формат.
+3. Добавить обработку исключений.
+4. Попробовать реализовать что-нибудь еще из: ![image of list of utils for working with elf files](utils.png)
